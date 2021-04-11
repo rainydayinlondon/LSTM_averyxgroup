@@ -1,0 +1,9 @@
+Tahmin modeline her iki ülkenin tahvil faizleri, 
+enflasyon oranları, dış ticaret dengesi, 
+sermaye hareketlilikleri ve bu hareketliliklerin faiz oranlarına etkisi,
+para arzı ve merkez bankası rezervleri, tarım dışı istihdam oranları gibi makroekonomik değişkenler eklenirse
+ve mevsimsellik etkileri de göz önüne alınırsa daha başarılı sonuçlar elde edilebilir.
+Hatta değişkenlerdeki Çift Eşikli Threshold değerlerinide göz önünde bulundurmak gerekir. 
+Ayrıca Emtialarda bu tahminlerin daha başarılı sonuç verebileceğini düşünüyorum.
+
+
