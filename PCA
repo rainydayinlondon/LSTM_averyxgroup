@@ -34,7 +34,11 @@ https://www.udemy.com/home/my-courses/learning/?sort=-enroll_time&p=1
 
 
 AMAN LINKLERİ
-https://data-flair.training/blogs/python-for-stock-market/
+
+
+https://data-flair.training/blogs/python-for-stock-market/  Kodlarını çalıştır..
+  
+https://www.investing.com/education/terms   //// Çalış öğrenn
 
 https://towardsdatascience.com/3-basic-steps-of-stock-market-analysis-in-python-917787012143
 
@@ -42,3 +46,42 @@ https://towardsdatascience.com/3-basic-steps-of-stock-market-analysis-in-python-
 
 Teknik Analiz Linkleri
 https://www.udemy.com/course/tradingview-egitimi/learn/lecture/17420780?start=15
+
+
+
+
+
+Lınksss 
+Stock market with python (Blogs) :
+https://data-flair.training/blogs/python-for-stock-market/
+https://towardsdatascience.com/3-basic-steps-of-stock-market-analysis-in-python-917787012143
+
+TA-LIB ( Technical analysis library ):
+https://www.ta-lib.org/    ( docs )
+https://mrjbq7.github.io/ta-lib/  ( quick start guide )
+https://towardsdatascience.com/technical-analysis-of-stocks-using-ta-lib-305614165051
+
+Financial Terms Dictionary :
+https://www.investing.com/education/terms  ( A good place for correct financial definitions )
+https://in.tradingview.com/
+
+
+I hope these links help you in your research direction, We are expecting some very intuitive feature engineering as predicting stock market price is not that easy and requires a lot of research,
+you can use and learn how good traders place trades because most of the times traders use just an algorithm or a strategy that is guided by logic and we can code the logic easily .
+
+Try to see if there is any season in which a particular sector blooms, This is a very interesting thing you can present next week. Please prepare some visualizations on the basis of your stats .
+Try to learn what decides the turn of the market quite often.
+
+I would highly encourage you to play around with a market simulator and learn which of your trades did well and why, This is the best way to feel the complexity in this domain.
+
+we are really looking forward to seeing something new analytical and unique as you have a lot of experience with maths. I would suggest trying PCA (Principal component analysis ) or any other dimension reduction techniques.
+With this best of luck and stay safe, stay healthy.  
+
+
+
+
+
+
+
+
+
