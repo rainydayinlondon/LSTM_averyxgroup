@@ -27,6 +27,11 @@ https://finance.yahoo.com/quote/MCD/history?p=MCD    /MCD Verileri
 
 
 PCA
+
+PCA ÖNEMLİ LİNK 
+https://www.portfolioconstructs.com/blog-detail/25?title=PCA%20for%20Stock%20Market%20Analysis%20with%20scikit-learn
+https://www.portfolioconstructs.com/blog-detail/22?title=Retrieving%20Public%20Financial%20Data%20Using%20Python
+----
 https://www.youtube.com/watch?v=HMOI_lkzW08  Statquest
 https://www.youtube.com/watch?v=6TSN_FGJUVA Irıs Dataset
 https://www.youtube.com/watch?v=NTmhkyl0780  PCA Hintli kız
@@ -37,6 +42,7 @@ https://www.youtube.com/watch?v=xJsNVzo_xAs
 https://www.youtube.com/watch?v=kApPBm1YsqU  Irıs DataSet
 https://www.youtube.com/watch?v=oiusrJ0btwA
 https://www.youtube.com/watch?v=5UHNMfdo320
+---
 https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60
 https://www.investopedia.com/terms/v/volume.asp#:~:text=Volume%20is%20the%20amount%20of,its%20daily%20open%20and%20close
 https://machinelearningmastery.com/principal-components-analysis-for-dimensionality-reduction-in-python/
@@ -90,7 +96,6 @@ I would highly encourage you to play around with a market simulator and learn wh
 
 we are really looking forward to seeing something new analytical and unique as you have a lot of experience with maths. I would suggest trying PCA (Principal component analysis ) or any other dimension reduction techniques.
 With this best of luck and stay safe, stay healthy.  
-
 
 
 
